@@ -1,6 +1,6 @@
 //atlassian OA
 //hashing session 29
-
+//link:https://docs.google.com/document/d/1f2VzhDu7z0fxBgn5TcpW0xf0wVyPFePNW_Iezlvk_oI/edit
 
 #include<bits/stdc++.h>
 using namespace std;
