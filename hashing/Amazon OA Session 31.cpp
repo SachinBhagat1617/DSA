@@ -14,6 +14,7 @@ int main(){
     cin>>x;
     //dekho question mai bola hai pairs ka condition (arr[i]+arr[j])%x==0
     //let price=[31,25,85,29,35], x=60
+    // we have to count the pairs which are divisible by x; here output is 3 (85,35) (31,29) (25,35)
     //let assume this pair (85,35) sum is 120 divisible by 60
     //suppose we are at 35 then how to find 85 ?
     //so we have to make a pair divisible by 60 to do so
