@@ -1,3 +1,15 @@
+/*Link - https://www.desiqna.in/17735/uber-oa-ctc-60-l-sde1-sep-5 
+
+-> Given an array of size “N” ; you have to do 3 type of operations sequentially 
+
+-> First delete any p elements;
+
+-> Then delete any q-adjacent pair elements. 
+
+-> Then delete any r-adjacent triplet elements. 
+
+After doing all this :- Sum of the remaining array should be maximum.
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
