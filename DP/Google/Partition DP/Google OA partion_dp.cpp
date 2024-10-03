@@ -49,7 +49,7 @@ using namespace std;
 int m,n,k;
 int helper(int ind,int k,vector<int>& arr,vector<vector<int>>& dp){
     if(ind==0 && k==0){
-        return 1;
+        return 1; // you have reached the last index succefully means you partitioned it by following the conditions given
     }
     if(k==0 || ind==0){
         return 0;
